@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814013309290",
+    "project_id": "labtask-974ca",
+    "storage_bucket": "labtask-974ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814013309290:android:a445bde1ca37d97e14c513",
+        "android_client_info": {
+          "package_name": "com.mashoodlabfinalterm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814013309290-rs80mf0rvbpcupuq4s04u5c3ifrkhohs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR0XbD6f8Y7vhtsw_A1DdRfaTqFYlSgZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814013309290-rs80mf0rvbpcupuq4s04u5c3ifrkhohs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
